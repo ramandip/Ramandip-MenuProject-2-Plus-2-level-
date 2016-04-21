@@ -1,0 +1,2 @@
+C:\Users\300866240\Desktop\MenuProject 2\MenuProject 2\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\300866240\Desktop\MenuProject 2\MenuProject 2\obj\Debug\Assembly-CSharp.dll
